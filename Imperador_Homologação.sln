@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imperador_Homologação", "Imperador_Homologação\Imperador_Homologação.csproj", "{5FEE4990-09D4-42C0-98CB-011F783D5C7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FEE4990-09D4-42C0-98CB-011F783D5C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FEE4990-09D4-42C0-98CB-011F783D5C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FEE4990-09D4-42C0-98CB-011F783D5C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FEE4990-09D4-42C0-98CB-011F783D5C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF0B6BCF-ADF0-4E8B-9E93-CC94D8A27FDA}
+	EndGlobalSection
+EndGlobal
